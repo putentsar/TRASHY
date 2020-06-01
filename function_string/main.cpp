@@ -22,5 +22,5 @@ int main() {
 string s = "the wind, the sea, the sky, the trees";
 string p = "the";
 nthSubstr(2, s, p);
-    //helpfull123sendvot
+    //helpfull123sendvotввыс
 }
