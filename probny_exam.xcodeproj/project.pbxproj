@@ -41,7 +41,7 @@
 		7C764FDC24696114005F72F3 = {
 			isa = PBXGroup;
 			children = (
-				7C764FE724696114005F72F3 /* probny_exam */,
+				7C764FE724696114005F72F3 /* function_string */,
 				7C764FE624696114005F72F3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7C764FE724696114005F72F3 /* probny_exam */ = {
+		7C764FE724696114005F72F3 /* function_string */ = {
 			isa = PBXGroup;
 			children = (
 				7C764FE824696114005F72F3 /* main.cpp */,
 			);
-			path = probny_exam;
+			path = function_string;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
